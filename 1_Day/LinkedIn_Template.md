@@ -2,6 +2,7 @@
 
 Today marks the beginning of my **90 Days DSA Patterns Journey** with [Anuj Kumar](https://www.linkedin.com/in/anuj-kumar-9a188968/) (Instructor) via his YouTube channel [**CTO Bhaiya**](https://www.youtube.com/channel/UCrJ9A_U_e4-p5ZdDOjsa1KA) 🎯
 
+
 📘 **Topic learned:** *Two Pointer Pattern*
 This is one of the most versatile and powerful techniques used in DSA.
 Here’s what I learned today:
@@ -19,6 +20,7 @@ Here’s what I learned today:
 🧠 **Key takeaway:**
 Think logically about how two pointers can meet, chase, or pass each other — and you can solve many tricky problems elegantly!
 
+Lecture: [Link](https://youtu.be/Elnhh8cC2vM)
 ✅ **Day 1 complete!**
 Excited to move on to **Day 2** and keep the momentum going 💪
 
